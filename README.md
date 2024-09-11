@@ -1,6 +1,5 @@
 Authors:
 @Tuna Çimen
-@Mehmet Tuna Günenç
 
 AIR TRAFFIC CONTROL SIMULATOR
 
