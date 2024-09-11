@@ -1,0 +1,93 @@
+donau@Tunas-MacBook-Pro-2 comp-304-operating-systems-project-2-nolodiga % ./main 60 0.5
+60
+0.500000
+Plane 1 wants to land. Time: 1
+Plane 7 wants to land. Time: 1
+Plane 4 wants to land. Time: 1
+Plane 6 wants to land. Time: 1
+Plane 2 wants to land. Time: 1
+Plane 3 wants to land. Time: 2
+Plane 8 wants to land. Time: 2
+Plane 9 wants to land. Time: 2
+Plane 1 has landed. Time: 2
+Plane 5 wants to land. Time: 4
+Plane 7 has landed. Time: 4
+Plane 7 wants to take off. Time: 5
+Plane 1 wants to take off. Time: 5
+Plane 4 has landed. Time: 6
+Plane 1 has taken off. Time: 8
+Plane 4 wants to take off. Time: 9
+Plane 1 wants to land. Time: 10
+Plane 2 has landed. Time: 10
+Plane 3 has landed. Time: 12
+Plane 2 wants to take off. Time: 12
+Plane 8 has landed. Time: 14
+Plane 3 wants to take off. Time: 14
+Plane 8 wants to take off. Time: 15
+Plane 4 has taken off. Time: 16
+Plane 5 has landed. Time: 18
+Plane 4 wants to land. Time: 18
+Plane 5 wants to take off. Time: 19
+Plane 7 has taken off. Time: 20
+Plane 7 wants to land. Time: 21
+Plane 6 has landed. Time: 22
+Plane 1 has landed. Time: 24
+Plane 6 wants to take off. Time: 24
+Plane 1 wants to take off. Time: 25
+Plane 9 has landed. Time: 26
+Plane 2 has taken off. Time: 28
+Plane 2 wants to land. Time: 29
+Plane 9 wants to take off. Time: 29
+Plane 3 has taken off. Time: 30
+Plane 3 wants to land. Time: 31
+Plane 8 has taken off. Time: 32
+Plane 4 has landed. Time: 34
+Plane 4 wants to take off. Time: 35
+Plane 5 has taken off. Time: 36
+Plane 8 wants to land. Time: 36
+Plane 7 has landed. Time: 38
+Plane 7 wants to take off. Time: 39
+Plane 6 has taken off. Time: 40
+Plane 5 wants to land. Time: 40
+Plane 6 wants to land. Time: 41
+Plane 1 has taken off. Time: 42
+Plane 2 has landed. Time: 44
+Plane 9 has taken off. Time: 46
+Plane 1 wants to land. Time: 46
+Plane 2 wants to take off. Time: 47
+Plane 3 has landed. Time: 48
+Plane 3 wants to take off. Time: 49
+Plane 4 has taken off. Time: 50
+Plane 9 wants to land. Time: 51
+Plane 8 has landed. Time: 52
+Plane 7 has taken off. Time: 54
+Plane 5 has landed. Time: 56
+PlaneID Status Request Time Runway Time Turnaround Time
+1      L      1            2          1
+7      L      1            4          3
+4      L      1            6          5
+1      D      5            8          3
+2      L      1            10          9
+3      L      2            12          10
+8      L      2            14          12
+4      D      9            16          7
+5      L      4            18          14
+7      D      5            20          15
+6      L      1            22          21
+1      L      10            24          14
+9      L      2            26          24
+2      D      12            28          16
+3      D      14            30          16
+8      D      15            32          17
+4      L      18            34          16
+5      D      19            36          17
+7      L      21            38          17
+6      D      24            40          16
+1      D      25            42          17
+2      L      29            44          15
+9      D      29            46          17
+3      L      31            48          17
+4      D      -5            50          15
+8      L      36            52          16
+7      D      39            54          15
+5      L      35            56          21
